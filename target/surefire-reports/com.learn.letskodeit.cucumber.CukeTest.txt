@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.learn.letskodeit.cucumber.CukeTest
+-------------------------------------------------------------------------------
+Tests run: 24, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 135.144 s - in com.learn.letskodeit.cucumber.CukeTest

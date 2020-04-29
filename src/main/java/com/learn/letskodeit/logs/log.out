@@ -1,0 +1,101 @@
+2020-04-26 17:04:824 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 17:04:625 INFO  HomePage :43 - Clicking On sign up link : [[ChromeDriver: chrome on WINDOWS (7b93f4c33a3b9063ec43933292ffdde6)] -> id: header-sign-up-btn]
+2020-04-26 17:04:124 INFO  SignUpPage :39 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7b93f4c33a3b9063ec43933292ffdde6)] -> xpath: //h1[contains(text(),"Sign Up to Let's Kode It")]]
+2020-04-26 17:04:693 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 17:04:112 INFO  HomePage :43 - Clicking On sign up link : [[ChromeDriver: chrome on WINDOWS (1f0f9cd9161ba3d4ea9c2a2ecc3307cd)] -> id: header-sign-up-btn]
+2020-04-26 17:04:305 INFO  SignUpPage :39 - Getting text from : [[ChromeDriver: chrome on WINDOWS (1f0f9cd9161ba3d4ea9c2a2ecc3307cd)] -> xpath: //h1[contains(text(),"Sign Up to Let's Kode It")]]
+2020-04-26 17:04:101 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 17:04:240 INFO  HomePage :43 - Clicking On sign up link : [[ChromeDriver: chrome on WINDOWS (d30360fcdc55ca8916d482e5154bc27f)] -> id: header-sign-up-btn]
+2020-04-26 17:04:360 INFO  SignUpPage :47 - Entering Full Name : Ankita Kaswalain full name field[[ChromeDriver: chrome on WINDOWS (d30360fcdc55ca8916d482e5154bc27f)] -> xpath: //input[@id='user_name']]
+2020-04-26 17:04:658 INFO  SignUpPage :53 - Entering emailId : abc123@yahoomail.comin the emailId field[[ChromeDriver: chrome on WINDOWS (d30360fcdc55ca8916d482e5154bc27f)] -> xpath: //input[@id='user_email']]
+2020-04-26 17:04:925 INFO  SignUpPage :59 - Entering password : Tajmahal06in the password field[[ChromeDriver: chrome on WINDOWS (d30360fcdc55ca8916d482e5154bc27f)] -> xpath: //input[@id='user_password']]
+2020-04-26 17:04:177 INFO  SignUpPage :64 - Entering conformpassword: Tajmahal06in the conformpassword field[[ChromeDriver: chrome on WINDOWS (d30360fcdc55ca8916d482e5154bc27f)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-26 18:04:743 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 18:04:445 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 18:04:541 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 18:04:194 INFO  HomePage :36 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (18202aa96ffab221405133e810b07b00)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
+2020-04-26 18:04:256 INFO  LoginPage :30 - Getting text from : [[ChromeDriver: chrome on WINDOWS (18202aa96ffab221405133e810b07b00)] -> xpath: //h1[@class='text-center']]
+2020-04-26 18:04:36 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 18:04:650 INFO  HomePage :36 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (c34a07db8e4576a44b87fa37fc66586a)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
+2020-04-26 18:04:463 INFO  SignUpPage :53 - Entering emailId : abc123@yahoomail.comin the emailId field[[ChromeDriver: chrome on WINDOWS (c34a07db8e4576a44b87fa37fc66586a)] -> xpath: //input[@id='user_email']]
+2020-04-26 18:04:697 INFO  SignUpPage :59 - Entering password : Tajmahal06in the password field[[ChromeDriver: chrome on WINDOWS (c34a07db8e4576a44b87fa37fc66586a)] -> xpath: //input[@id='user_password']]
+2020-04-26 22:04:557 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 22:04:438 INFO  HomePage :43 - Clicking On sign up link : [[ChromeDriver: chrome on WINDOWS (3f30ac0e6c39a9e87f9a1a4587f92881)] -> id: header-sign-up-btn]
+2020-04-26 22:04:958 INFO  SignUpPage :39 - Getting text from : [[ChromeDriver: chrome on WINDOWS (3f30ac0e6c39a9e87f9a1a4587f92881)] -> xpath: //h1[contains(text(),"Sign Up to Let's Kode It")]]
+2020-04-26 22:04:220 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 22:04:271 INFO  HomePage :43 - Clicking On sign up link : [[ChromeDriver: chrome on WINDOWS (8aadb9ca27a8582be49e7a0f68cd0c71)] -> id: header-sign-up-btn]
+2020-04-26 22:04:981 INFO  SignUpPage :47 - Entering Full Name : Bhavesh Patelin full name field[[ChromeDriver: chrome on WINDOWS (8aadb9ca27a8582be49e7a0f68cd0c71)] -> xpath: //input[@id='user_name']]
+2020-04-26 22:04:574 INFO  SignUpPage :53 - Entering emailId : xyz123@gmail.comin the emailId field[[ChromeDriver: chrome on WINDOWS (8aadb9ca27a8582be49e7a0f68cd0c71)] -> xpath: //input[@id='user_email']]
+2020-04-26 22:04:944 INFO  SignUpPage :59 - Entering password : Tiger0604in the password field[[ChromeDriver: chrome on WINDOWS (8aadb9ca27a8582be49e7a0f68cd0c71)] -> xpath: //input[@id='user_password']]
+2020-04-26 22:04:317 INFO  SignUpPage :64 - Entering conformpassword: Tiger0604in the conformpassword field[[ChromeDriver: chrome on WINDOWS (8aadb9ca27a8582be49e7a0f68cd0c71)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-26 22:04:398 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 22:04:807 INFO  HomePage :36 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (dc9539d5645b5c888867168aff31d2a9)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
+2020-04-26 22:04:477 INFO  LoginPage :30 - Getting text from : [[ChromeDriver: chrome on WINDOWS (dc9539d5645b5c888867168aff31d2a9)] -> xpath: //h1[@class='text-center']]
+2020-04-26 22:04:776 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 22:04:379 INFO  HomePage :36 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (73b9a649017cf988f1eb61ea6484ef1d)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
+2020-04-26 22:04:106 INFO  SignUpPage :53 - Entering emailId : xyz123@gmail.comin the emailId field[[ChromeDriver: chrome on WINDOWS (73b9a649017cf988f1eb61ea6484ef1d)] -> xpath: //input[@id='user_email']]
+2020-04-26 22:04:472 INFO  SignUpPage :59 - Entering password : Tiger0604in the password field[[ChromeDriver: chrome on WINDOWS (73b9a649017cf988f1eb61ea6484ef1d)] -> xpath: //input[@id='user_password']]
+2020-04-26 22:04:272 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 22:04:472 INFO  HomePage :36 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (f7118910cd247100a9db3c718a8c433e)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
+2020-04-26 22:04:899 INFO  LoginPage :30 - Getting text from : [[ChromeDriver: chrome on WINDOWS (f7118910cd247100a9db3c718a8c433e)] -> xpath: //h1[@class='text-center']]
+2020-04-26 22:04:454 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 22:04:183 INFO  HomePage :36 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (3dbf20b49481f38bc119361028197aa8)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
+2020-04-26 22:04:275 INFO  SignUpPage :53 - Entering emailId : xyz123@gmail.comin the emailId field[[ChromeDriver: chrome on WINDOWS (3dbf20b49481f38bc119361028197aa8)] -> xpath: //input[@id='user_email']]
+2020-04-26 22:04:751 INFO  SignUpPage :59 - Entering password : Tiger0604in the password field[[ChromeDriver: chrome on WINDOWS (3dbf20b49481f38bc119361028197aa8)] -> xpath: //input[@id='user_password']]
+2020-04-26 22:04:594 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 22:04:686 INFO  HomePage :43 - Clicking On sign up link : [[ChromeDriver: chrome on WINDOWS (b5acd4fba6ae9b3de051f015404893f4)] -> id: header-sign-up-btn]
+2020-04-26 22:04:629 INFO  SignUpPage :39 - Getting text from : [[ChromeDriver: chrome on WINDOWS (b5acd4fba6ae9b3de051f015404893f4)] -> xpath: //h1[contains(text(),"Sign Up to Let's Kode It")]]
+2020-04-26 22:04:985 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 22:04:850 INFO  HomePage :43 - Clicking On sign up link : [[ChromeDriver: chrome on WINDOWS (c10e7f7f62817241253b60e8b00b58d9)] -> id: header-sign-up-btn]
+2020-04-26 22:04:447 INFO  SignUpPage :47 - Entering Full Name : Bhavesh Patelin full name field[[ChromeDriver: chrome on WINDOWS (c10e7f7f62817241253b60e8b00b58d9)] -> xpath: //input[@id='user_name']]
+2020-04-26 22:04:972 INFO  SignUpPage :53 - Entering emailId : xyz123@gmail.comin the emailId field[[ChromeDriver: chrome on WINDOWS (c10e7f7f62817241253b60e8b00b58d9)] -> xpath: //input[@id='user_email']]
+2020-04-26 22:04:356 INFO  SignUpPage :59 - Entering password : Tiger0604in the password field[[ChromeDriver: chrome on WINDOWS (c10e7f7f62817241253b60e8b00b58d9)] -> xpath: //input[@id='user_password']]
+2020-04-26 22:04:705 INFO  SignUpPage :64 - Entering conformpassword: Tiger0604in the conformpassword field[[ChromeDriver: chrome on WINDOWS (c10e7f7f62817241253b60e8b00b58d9)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-28 10:04:211 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-28 10:04:451 INFO  HomePage :34 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (a0ae333e8ef39e27cd145197403e3202)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
+2020-04-28 10:04:791 INFO  LoginPage :28 - Getting text from : [[ChromeDriver: chrome on WINDOWS (a0ae333e8ef39e27cd145197403e3202)] -> xpath: //h1[@class='text-center']]
+2020-04-28 10:04:40 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-28 10:04:898 INFO  HomePage :34 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (e05f23d053cc7bc6441a8b2669d07379)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
+2020-04-28 10:04:945 INFO  SignUpPage :51 - Entering emailId : xyz123@gmail.comin the emailId field[[ChromeDriver: chrome on WINDOWS (e05f23d053cc7bc6441a8b2669d07379)] -> xpath: //input[@id='user_email']]
+2020-04-28 10:04:398 INFO  SignUpPage :57 - Entering password : Tiger0604in the password field[[ChromeDriver: chrome on WINDOWS (e05f23d053cc7bc6441a8b2669d07379)] -> xpath: //input[@id='user_password']]
+2020-04-28 10:04:698 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-28 10:04:606 INFO  HomePage :41 - Clicking On sign up link : [[ChromeDriver: chrome on WINDOWS (416d046f2d3a00293aee9b3450565ed1)] -> id: header-sign-up-btn]
+2020-04-28 10:04:217 INFO  SignUpPage :37 - Getting text from : [[ChromeDriver: chrome on WINDOWS (416d046f2d3a00293aee9b3450565ed1)] -> xpath: //h1[contains(text(),"Sign Up to Let's Kode It")]]
+2020-04-28 10:04:442 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-28 10:04:389 INFO  HomePage :41 - Clicking On sign up link : [[ChromeDriver: chrome on WINDOWS (5f4aa5ca13a1523b254ac924adfd0bf9)] -> id: header-sign-up-btn]
+2020-04-28 10:04:228 INFO  SignUpPage :45 - Entering Full Name : Bhavesh Patelin full name field[[ChromeDriver: chrome on WINDOWS (5f4aa5ca13a1523b254ac924adfd0bf9)] -> xpath: //input[@id='user_name']]
+2020-04-28 10:04:643 INFO  SignUpPage :51 - Entering emailId : xyz123@gmail.comin the emailId field[[ChromeDriver: chrome on WINDOWS (5f4aa5ca13a1523b254ac924adfd0bf9)] -> xpath: //input[@id='user_email']]
+2020-04-28 10:04:953 INFO  SignUpPage :57 - Entering password : Tiger0604in the password field[[ChromeDriver: chrome on WINDOWS (5f4aa5ca13a1523b254ac924adfd0bf9)] -> xpath: //input[@id='user_password']]
+2020-04-28 10:04:192 INFO  SignUpPage :62 - Entering conformpassword: Tiger0604in the conformpassword field[[ChromeDriver: chrome on WINDOWS (5f4aa5ca13a1523b254ac924adfd0bf9)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-28 15:04:416 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-28 15:04:988 INFO  HomePage :34 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='navbar-link fedora-navbar-link']'
+2020-04-28 15:04:75 INFO  LoginPage :28 - Getting text from : [[ChromeDriver: chrome on WINDOWS (273bd5cacda99a42c7b9b28a18470712)] -> xpath: //h1[@class='text-center']]
+2020-04-28 15:04:78 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-28 15:04:737 INFO  HomePage :34 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (cc3019696d1bd42ee6b33f63ec8df2ce)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
+2020-04-28 15:04:138 INFO  SignUpPage :51 - Entering emailId : xyz123@gmail.comin the emailId field[[ChromeDriver: chrome on WINDOWS (cc3019696d1bd42ee6b33f63ec8df2ce)] -> xpath: //input[@id='user_email']]
+2020-04-28 15:04:321 INFO  SignUpPage :57 - Entering password : Tiger0604in the password field[[ChromeDriver: chrome on WINDOWS (cc3019696d1bd42ee6b33f63ec8df2ce)] -> xpath: //input[@id='user_password']]
+2020-04-28 15:04:165 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-28 15:04:919 INFO  HomePage :41 - Clicking On sign up link : [[ChromeDriver: chrome on WINDOWS (ff9a83d56e52dca624376a8e0eabeefb)] -> id: header-sign-up-btn]
+2020-04-28 15:04:120 INFO  SignUpPage :37 - Getting text from : [[ChromeDriver: chrome on WINDOWS (ff9a83d56e52dca624376a8e0eabeefb)] -> xpath: //h1[contains(text(),"Sign Up to Let's Kode It")]]
+2020-04-28 15:04:322 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-28 15:04:620 INFO  HomePage :41 - Clicking On sign up link : [[ChromeDriver: chrome on WINDOWS (43ecd0d086bf5a7d445a99a5c6364be0)] -> id: header-sign-up-btn]
+2020-04-28 15:04:762 INFO  SignUpPage :45 - Entering Full Name : Bhavesh Patelin full name field[[ChromeDriver: chrome on WINDOWS (43ecd0d086bf5a7d445a99a5c6364be0)] -> xpath: //input[@id='user_name']]
+2020-04-28 15:04:225 INFO  SignUpPage :51 - Entering emailId : xyz123@gmail.comin the emailId field[[ChromeDriver: chrome on WINDOWS (43ecd0d086bf5a7d445a99a5c6364be0)] -> xpath: //input[@id='user_email']]
+2020-04-28 15:04:507 INFO  SignUpPage :57 - Entering password : Tiger0604in the password field[[ChromeDriver: chrome on WINDOWS (43ecd0d086bf5a7d445a99a5c6364be0)] -> xpath: //input[@id='user_password']]
+2020-04-28 15:04:823 INFO  SignUpPage :62 - Entering conformpassword: Tiger0604in the conformpassword field[[ChromeDriver: chrome on WINDOWS (43ecd0d086bf5a7d445a99a5c6364be0)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-28 17:04:43 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-28 17:04:216 INFO  HomePage :34 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='navbar-link fedora-navbar-link']'
+2020-04-28 17:04:279 INFO  LoginPage :28 - Getting text from : [[ChromeDriver: chrome on WINDOWS (bd6abaeb2386382c550a8854b99faa49)] -> xpath: //h1[@class='text-center']]
+2020-04-28 17:04:223 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-28 17:04:484 INFO  HomePage :34 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (e769c92e6325c6eae8f6424beb1035dc)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
+2020-04-28 17:04:257 INFO  SignUpPage :51 - Entering emailId : xyz123@gmail.comin the emailId field[[ChromeDriver: chrome on WINDOWS (e769c92e6325c6eae8f6424beb1035dc)] -> xpath: //input[@id='user_email']]
+2020-04-28 17:04:633 INFO  SignUpPage :57 - Entering password : Tiger0604in the password field[[ChromeDriver: chrome on WINDOWS (e769c92e6325c6eae8f6424beb1035dc)] -> xpath: //input[@id='user_password']]
+2020-04-28 17:04:503 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-28 17:04:993 INFO  HomePage :41 - Clicking On sign up link : [[ChromeDriver: chrome on WINDOWS (44eee6f66c4d186709bbcb4d5b5be51a)] -> id: header-sign-up-btn]
+2020-04-28 17:04:697 INFO  SignUpPage :37 - Getting text from : [[ChromeDriver: chrome on WINDOWS (44eee6f66c4d186709bbcb4d5b5be51a)] -> xpath: //h1[contains(text(),"Sign Up to Let's Kode It")]]
+2020-04-28 17:04:678 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-28 17:04:791 INFO  HomePage :41 - Clicking On sign up link : Proxy element for: DefaultElementLocator 'By.id: header-sign-up-btn'
+2020-04-28 17:04:195 INFO  SignUpPage :45 - Entering Full Name : Bhavesh Patelin full name field[[ChromeDriver: chrome on WINDOWS (169b8f5505846e107d163358429fe3f6)] -> xpath: //input[@id='user_name']]
+2020-04-28 17:04:717 INFO  SignUpPage :51 - Entering emailId : xyz123@gmail.comin the emailId field[[ChromeDriver: chrome on WINDOWS (169b8f5505846e107d163358429fe3f6)] -> xpath: //input[@id='user_email']]
+2020-04-28 17:04:03 INFO  SignUpPage :57 - Entering password : Tiger0604in the password field[[ChromeDriver: chrome on WINDOWS (169b8f5505846e107d163358429fe3f6)] -> xpath: //input[@id='user_password']]
+2020-04-28 17:04:341 INFO  SignUpPage :62 - Entering conformpassword: Tiger0604in the conformpassword field[[ChromeDriver: chrome on WINDOWS (169b8f5505846e107d163358429fe3f6)] -> xpath: //input[@id='user_password_confirmation']]
